@@ -1,12 +1,13 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+title: Robot Artist - Sawyer the Picasso
+short-caption: Robot Artist
+date: 2020-01-04
+img: sawyer_picasso.gif
 alt: image-alt
-project-date: April 2014
+project-date: December 2019
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+category: Robotics
+description: A robot can draw like an artist! In this project, you are able to draw a custom picture on a piece of letter size paper using a Rethink Sawyer Robot.<br>The package implements the drawing process on a pixel by pixel basis, using.<br>The drawing quality is further enhanced by a force control feature, so don't worry about bumpy or slanted surfaces! <br><br>For more information, check out my Github source code <a href="https://github.com/RicoJia/sawyer_picasso">Github Source Code</a>. <br>Also, don't forget to check out my Youtube channel <iframe width="560" height="315" src="https://www.youtube.com/embed/oZADOFXaMHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---

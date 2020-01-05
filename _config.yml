@@ -1,5 +1,5 @@
 # Site settings
-title: Ruotong (Rico) Jia
+title: Rico Ruotong Jia
 email: ruotongjia2020@u.northwestern.edu
 url: ricojia.github.io
 description: "Rico is an aspiring robotics engineer. Currently he is pursuing his master's degree at Northwester University. Come to find out about some of his really cool projects!"
@@ -39,7 +39,7 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: LinkedIn
+  - title: linkedin
     url: https://www.linkedin.com/in/ricojia/
   - title: github
     url: http://github.com/RicoJia
