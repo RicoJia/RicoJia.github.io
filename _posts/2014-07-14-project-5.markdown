@@ -1,12 +1,16 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
+title: Fidget Spinner Faceoff with Euler Lagrange Dynamics 
+short-caption: Fidget Spinner Faceoff 
+date: 2020-01-04
+img: 314.gif
 alt: image-alt
-project-date: April 2014
+project-date: December 2019
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+category: Euler Lagrange Dynamics, Physics Engine, SciPy
+description: <h2>Project Overview</h2><br>
+In this project, I simulated a scenario where two fidget spinners: one rectangular and one triangular, are colliding into each other and bounce off of each other. 
+
 
 ---

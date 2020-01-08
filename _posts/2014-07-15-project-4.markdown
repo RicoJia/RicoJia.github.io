@@ -1,14 +1,13 @@
 ---
 layout: default
-modal-id: 2
-title: Fidget Spinner Playoff
-short-caption: 3R Robot Arm
+modal-id: 4
+title: KUKA youBot Pick & Place
+short-caption: KUKA youBot
 date: 2020-01-04
-img: 3R_arm3.gif
+img: 449.gif
 alt: image-alt
-project-date: December 2019
+project-date: November 2019
 client: Start Bootstrap
 category: Inverse Kinematics, Omnidirectional Robot Control, Kuka, PD Control, V-REP
-description: In this project, I developed a control algorithm and a V-REP simulator for a KUKA youBot to accomplish a pick and place task, 
-Key steps include: end-effector trajectory planning, wheel and joint speed calculation, and simulation. 
+description: In this project, I developed a control algorithm and a V-REP simulator for a KUKA youBot to accomplish a pick and place task. <br><br>Key steps include end-effector trajectory planning, wheel and joint speed calculation, and simulation. For more details, please check out my Github Repo and a live demo on my Youtube Channel
 ---
