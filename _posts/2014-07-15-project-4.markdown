@@ -1,5 +1,5 @@
 ---
-layout: defaolt
+layout: default
 modal-id: 4
 title: KUKA youBot Pick & Place
 short-caption: KUKA youBot
@@ -8,7 +8,7 @@ img: 449.gif
 alt: image-alt
 project-date: November 2019
 client: Start Bootstrap
-category: Inverse Kinematics, Omnidirectional Robot Control, Kuka, PD Control, V-REP
-description: <p>In this project, I developed a control algorithm and a V-REP simolator for a KUKA youBot to accomplish a pick and place task. </p><br><p>Key steps include:<ol><li>End-effector trajectory planning </li><li>Wheel and joint speed calcolation</li><li>Position Simolation with joint speeds</li><li>Visualization on V-REP</li></ol></p> <br><p>Key concepts include:<ol><li>Straight line trajectory generation with time scaling</li><li>Forward kinematics using screw theory and Lie algebra</li><li>Omnidirectional robot wheel speed calculation</li><li>Velocity Kinematics using Jacobian for calculating robot arm joint speeds</li><li>PD+Feedforward for end-effector position control</li><li>V-REP Physics Engine</li></ol></p> <br><p>For more details, please check out the project description <a href="http://hades.mech.northwestern.edu/index.php/Mobile_Manipulation_Capstone">Project Description and Instruction</a>, my <a href="https://github.com/RicoJia/KUKA_youBot_Manipulation">Github </a>and a live demo on my Youtube Channel</p><br><p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/zfYSGZto2Gk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></p>
+category: Inverse Kinematics, Omnidirectional Robot Control, Kuka, PI Control, V-REP
+description: <p>In this project, I developed a control algorithm and a V-REP simolator for a KUKA youBot to accomplish a pick and place task. </p><br><p>Key steps include:<ol><li>End-effector trajectory planning </li><li>Wheel and joint speed calcolation</li><li>Position Simolation with joint speeds</li><li>Visualization on V-REP</li></ol></p> <br><p>Key concepts include:<ol><li>Straight line trajectory generation with time scaling</li><li>Forward kinematics using screw theory and Lie algebra</li><li>Omnidirectional robot wheel speed calculation</li><li>Velocity Kinematics using Jacobian for calculating robot arm joint speeds</li><li>PI+Feedforward for end-effector position control</li><li>V-REP Physics Engine</li></ol></p> <br><p>For more details, please check out the project description <a href="http://hades.mech.northwestern.edu/index.php/Mobile_Manipulation_Capstone">Project Description and Instruction</a>, my <a href="https://github.com/RicoJia/KUKA_youBot_Manipulation">Github </a>and a live demo on my Youtube Channel</p><br><p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/zfYSGZto2Gk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></p>
 ---
 
