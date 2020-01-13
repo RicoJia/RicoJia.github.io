@@ -12,11 +12,11 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>{{ post.title }}</h2>
+                            <h2><center>{{ post.title }}</center></h2>
                             <hr class="star-primary">
-<!--                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">-->
+                          <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">  <!--  might be commented out-->
                             {% if post.description %}
-                                <p>{{ post.description }}</p>
+                                <p><p>{{ post.description }}</p></p>
                             {% endif %}
                             <ul class="list-inline item-details">
 
