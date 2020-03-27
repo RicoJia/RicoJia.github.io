@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 9
+title: Survey on Robust Visual SLAM 
+short-caption: Survey on Robust Visual SLAM 
+date: 2020-03-20
+img: vslam.gif
+alt: image-alt
+project-date: March 2020
+client: Start Bootstrap
+category: SLAM, Robotics Navigation
+description: <br><br><p> This is a research project that I conducted under the supervision of Dr.Ying Wu at Northwestern University, as part of the course EECE432 - Advanced Computer Vision. In this paper, I explored core techniques of each step of Robust Visual Simultaneous Localization and Mapping (SLAM), a group of SLAM techniques that employ static features for localizing and mapping. </p> <br><br><p> <a href="img/documentations/EECS_VSLAM_FINAL_SURVEY.pdf">Click here to access the full paper. </a> <br><br><p>The abstract of the paper is as follows. </p>  <br><br><p> In the last few decades, visual Simultaneous Localization (visual SLAM) and Mapping and Structure from Motion (SfM) have been a hotspot of research in both the computer vision and robotic communities. Many variants of these techniques have started to make an impact in a wide range of applications, including robot navigation and augmented reality. Most SfM and visual SLAM techniques are developed based on the assumption of static environment. These methods can be categorized as Robust Visual SLAM methods. In this survey, we present multiple techniques that are commonly used in major steps of Robust Visual SLAM. We identify five major steps of Robust Visual SLAM - feature extraction, feature matching, motion segmentation, localization, and 3D reconstruction. In each section, we present the core ideas of every method and we discuss their advantages and disadvantages. Finally, the future research trends in Robust VSLAM and conclusion of this survey is discussed.</p>
+---
+
