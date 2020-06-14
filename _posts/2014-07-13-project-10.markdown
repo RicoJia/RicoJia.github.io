@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 10
+title: Motion Planning Algorithms 
+short-caption: Motion Planning Algorithms 
+date: 2020-06-14
+img: d_star_lite.gif
+alt: Motion Planning Algorithms
+project-date: June 2020
+client: Start Bootstrap
+category: Robot Navigation
+description: <br><br><p>As part of an independent study class, I implemented a collection of essential motion planning algorithms and necessary utility functions.</p><br><br><p>As the foundation of planning, I implemented a graph-based Probablistic Road Map (PRM). Also, I implemented a grid map to discretize the search space</p><br><br><p> For planning algorithms, I implemented/am implementing Global incremental planning algorithms such as Lifelong PLanning Star (LPA*), D* Lite<span>;</span>Potential Field Algorithms<span>:</span> Continuous Potential Field, Bushfire algorithm, Wavefront algorithm<span>;</span> Local Planning Algorithm - Dynammic Window Approach, MPPI (Model Predictive Path Integral Controller).</p><br><br><p><a href="https://github.com/RicoJia/Motion_Planning_Rico">Check out my Github for more details </a></p>
+---
+
