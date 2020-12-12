@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 10
+title: Multi-Agent Coordination with Delta Robots
+short-caption: Multi-Agent Coordination with Delta Robots
+date: 2020-12-11
+img: delta_salute.gif
+alt: Multi-Agent Coordination with Delta Robots
+project-date: December 2020
+client: Start Bootstrap
+category: Robot Navigation
+description: <br><br><p> In Robotics, one area under active research is multi-agent coordination. The future is promising - a group of robots can carry heavy objects for people, explore an unreachable space for humans, or provide fun, like playing tug of war with us. </p><br><br><p> Want to know more about how these amazing little bots can be controlled in a coordinated way? <a href="https://ricoruotongjia.medium.com/s-d65d8ffcc73d">Come check out my blog post about more details!</a></p>
+---
+
+
