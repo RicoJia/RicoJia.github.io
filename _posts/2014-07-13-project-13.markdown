@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 13
+title: Robot Goes Wild - Delta Robot Bounces Ball using Deep Reinforcement Learning
+short-caption: Delta Robot Using Deep Reinforcement Learning
+date: 2020-12-08
+img: ddpg.gif
+alt: Delta Robot Using Deep Reinforcement Learning
+project-date: December 2020
+client: Start Bootstrap
+category: Deep Reinforcement Learning, PyBullet, Delta Robot
+description: <br><br><p>Delta robot has 3 legs, and its end-effector can only travel along the x, y, z directions in space and cannot rotate. How can we make this 3 dof robot bounce a ball as many times as possible? Check out <a href="https://ricoruotongjia.medium.com/robot-goes-wild-delta-robot-bounces-ball-using-deep-reinforcement-learning-ed21969aff0a">this Medium Article</a> and <a href="https://github.com/RicoJia/gym-delta-robot-trampoline">Github Code</a> to see how it becomes possible on the PyBullet Engine!</a></p>
+---
+
+
+
+

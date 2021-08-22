@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 12
+title: An Easy-To-Implement Face Tracker Using Particle Filtering 
+short-caption: Face Tracker Using Particle Filtering
+date: 2021-08-21
+img: face_tracker.gif
+alt: Face Tracker Using Particle Filtering
+project-date: August 2021
+client: Start Bootstrap
+category: Computer Vision
+description: <br><br><p>The particle filter uses a dynamics model to predict where the Region of Interest (ROI) might be on each frame. That will restrict the search, and will reduce noise due to trajectory smoothness. Also, if a region with a better color histogram comes up later, even if that’s far from the current prediction, the particle filter may be able to quickly catch that. Mean-Shift trackers, however, may get stuck in the current region. For more details, <a href="https://ricoruotongjia.medium.com/an-easy-to-implement-face-tracker-using-particle-filtering-part-2-951ee80872a4">Check out this Medium Article</a>, and definitely see <a href="https://github.com/RicoJia/filter_projects">my implementation on Github!</a></p>
+---
+
+
+
